@@ -4,12 +4,12 @@
   - Strong and weak sides of node.js: 🔬 researched
   - Stateful and stateless servers: 👂 heard
   - Nonblocking I/O and slocking code: 👂 heard
-  - Event loop: phases: 🎓 known
-  - Event loop: microtasks and macrotasks: 👂 heard
-  - Garbage collection: 👂 heard
+  - Event loop: phases: 🔬 researched
+  - Event loop: microtasks and macrotasks: 🔬 researched
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
-  - Interactive applications (close to real-time): 👂 heard
+  - Interactive applications (close to real-time): 🎓 known
 - Modularity, layers and dependencies
   - CommonJS modules: 🖐️ used
   - ECMAScript modules: 🖐️ used
@@ -21,7 +21,7 @@
   - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model: 👂 heard
   - Isolation with modularity: 🔬 researched
-  - Dependency injection: 🎓 known
+  - Dependency injection: 🖐️ used
   - DI containers: 👂 heard
   - Coupling and cohesion: 👂 heard
   - Framework agnostic approach: 🎓 known
@@ -62,18 +62,18 @@
   - Module node:zlib: 👂 heard
 - Application structure and architecture
   - Isolation between layer: 👂 heard
-  - Multilayer approach: 🎓 known
+  - Multilayer approach: 🖐️ used
   - Separation of concerns: 👂 heard
   - Inversion of control: 👂 heard
-  - Dependency injection: 🎓 known
+  - Dependency injection: 🖐️ used
   - GRASP: 🎓 known
   - SOLID: 🙋 explained
   - GoF patterns: 🎓 known
   - Distributed systems: 🎓 known
   - Highload applications: 👂 heard
-  - Clean architecture: 🎓 known
+  - Clean architecture: 🖐️ used
   - DDD: 🎓 known
-  - Message Queue: 🎓 known
+  - Message Queue: 🖐️ used
   - CQS: 👂 heard
   - CQRS: 👂 heard
   - Event sourcing: 👂 heard
@@ -116,8 +116,8 @@
   - Native test runner: 👂 heard
   - Logging: 🚀 constructed
   - Application configuring: 🖐️ used
-  - Testing: 🖐️ used
-  - CI/CD: 🖐️ used
+  - Testing: 🔬 researched
+  - CI/CD: 🚀 constructed
   - Readable: 🖐️ used
   - Writable: 🖐️ used
   - Transform: 👂 heard
@@ -133,7 +133,7 @@
   - Data access layer: 🎓 known
   - Repository: 🖐️ used
   - Active record: 👂 heard
-  - Query builder: 🖐️ used
+  - Query builder: 🚀 constructed
   - Object-Relational Mapping: 🖐️ used
 - Error handling and debugging
   - Error: 🖐️ used

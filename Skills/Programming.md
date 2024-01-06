@@ -78,14 +78,14 @@
   - serialization: 🖐️ used
   - string parsing: 🖐️ used
 - Process & style
-  - compiler: 🖐️ used
+  - compiler: 🚀 constructed
   - transpiler: 🎓 known
   - linter: 🖐️ used
   - polyfill: 🎓 known
   - debugger: 🖐️ used
   - garbage collection: 🎓 known
-  - refactoring: 🖐️ used
-  - code review: 🎓 known
+  - refactoring: 📢 talked
+  - code review: 📢 talked
   - antipatterns: 🖐️ used
   - paradigm: 🖐️ used
   - algorithm: 🚀 constructed
@@ -101,6 +101,6 @@
   - duplicate code: 🎓 known
   - exception: 🖐️ used
   - return early: 👂 heard
-  - unittest: 🖐️ used
+  - unittest: 🔬 researched
   - git: 🖐️ used
   - github: 🖐️ used

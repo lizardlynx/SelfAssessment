@@ -1,7 +1,7 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🙋 explained
+  - Event loop: 🔬 researched
   - try..catch: 🖐️ used
   - Non-blocking: 🖐️ used
   - Async I/O: 🎓 known
@@ -12,7 +12,7 @@
   - kqueue: 👂 heard
   - Completion ports: 👂 heard
   - Event ports: 👂 heard
-  - libuv: 👂 heard
+  - libuv: 🎓 known
   - Race conditions: 🙋 explained
   - Dead locks: 🙋 explained
   - Live locks: 👂 heard
@@ -55,7 +55,7 @@
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
   - Async Collector: 👂 heard
-  - Semaphore: 👂 heard
+  - Semaphore: 🎓 known
   - Mutex: 👂 heard
   - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
@@ -73,7 +73,7 @@
   - Callback hell: 🙋 explained
   - Promise hell: 👂 heard
   - ref() and unref(): 👂 heard
-  - Error handling in async code: 🖐️ used
+  - Error handling in async code: 🔬 researched
   - Better stack traces with return await: 👂 heard
   - JSON: streaming serialization: 👂 heard
   - promisify: 🚀 constructed
@@ -84,10 +84,10 @@
   - async.js library: 👂 heard
   - RxJS library: 🖐️ used
   - Async composition: 🎓 known
-  - Promise.all: 🖐️ used
-  - Promise.allSettled: 🖐️ used
-  - Promise.race: 🖐️ used
-  - Promise.any: 🖐️ used
+  - Promise.all: 🙋 explained
+  - Promise.allSettled: 🙋 explained
+  - Promise.race: 🙋 explained
+  - Promise.any: 🙋 explained
   - Web Locks API: 👂 heard
   - IPC: 👂 heard
   - Channel API: 👂 heard

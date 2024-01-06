@@ -1,13 +1,13 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object: 🖐️ used
+  - Object: 🔬 researched
   - this: 🖐️ used
   - arrow function: 🖐️ used
   - async function: 🖐️ used
   - call: 🖐️ used
-  - bind: 🎓 known
-  - apply: 🎓 known
+  - bind: 🖐️ used
+  - apply: 🎓🖐️ used
   - instanceof: 🎓 known
   - ...spread: 🖐️ used
   - ...rest: 🖐️ used
