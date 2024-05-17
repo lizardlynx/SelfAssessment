@@ -13,14 +13,14 @@
   - Completion ports: 👂 heard
   - Event ports: 👂 heard
   - libuv: 🎓 known
-  - Race conditions: 🙋 explained
+  - Race conditions: 📢 talked
   - Dead locks: 🙋 explained
-  - Live locks: 👂 heard
-  - Concurrent programming: 🖐️ used
-  - Parallel programming: 🖐️ used
+  - Live locks: 🎓 known
+  - Concurrent programming: 🔬 researched
+  - Parallel programming: 🔬 researched
   - Actor Model: 🎓 known 
-  - Thread: 🖐️ used
-  - Process: 🖐️ used
+  - Thread: 🙋 explained
+  - Process: 🙋 explained
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 🖐️ used
@@ -35,11 +35,11 @@
   - Event: 🖐️ used
   - Coroutine: 🖐️ used
   - Goroutine: 👂 heard
-  - Signal: 👂 heard
+  - Signal: 🎓 known
   - Stream: 🖐️ used
   - Chain of responsibility: 👂 heard
-  - Middleware: 🎓 known
-  - Locks: 🖐️ used
+  - Middleware: 🙋 explained
+  - Locks: 🙋 explained
 - Async adapters and utils
   - callbackify: 🚀 constructed
   - promisify: 🚀 constructed
@@ -51,9 +51,9 @@
   - Observable/Observer: 🖐️ used
   - Readable: 👂 heard
   - Writable: 👂 heard
-  - Transform: 👂 heard
+  - Transform: 🖐️ used
   - Async Pool: 👂 heard
-  - Async Queue: 👂 heard
+  - Async Queue: 🖐️ used
   - Async Collector: 👂 heard
   - Semaphore: 🎓 known
   - Mutex: 👂 heard
@@ -68,14 +68,14 @@
   - Promise double resolve: 👂 heard
   - child_process: 🎓 known
   - worker_threads: 🎓 known
-  - Atomics: 👂 heard
+  - Atomics: 🎓 known
   - High resolution clock: 👂 heard
   - Callback hell: 🙋 explained
   - Promise hell: 👂 heard
   - ref() and unref(): 👂 heard
   - Error handling in async code: 🔬 researched
-  - Better stack traces with return await: 👂 heard
-  - JSON: streaming serialization: 👂 heard
+  - Better stack traces with return await: 🎓 known
+  - JSON: streaming serialization: 🎓 known
   - promisify: 🚀 constructed
   - callbackify: 🚀 constructed
   - AsyncLocalStorage: 👂 heard

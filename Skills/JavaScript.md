@@ -24,13 +24,13 @@
   - globalThis: 👂 heard
   - window: 🖐️ used
   - getters and setters: 🖐️ used
-  - __proto__: 🖐️ used
-  - prototype: 🖐️ used
+  - __proto__: 🔬 researched
+  - prototype: 🔬 researched
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
   - bitwise operators: 🎓 known
   - ternary operator: 🖐️ used
-  - void: 🖐️ used
+  - void: 🙋 explained
   - yield: 🎓 known
   - await: 🖐️ used
   - template literal: 🖐️ used
@@ -39,7 +39,7 @@
   - in: 🖐️ used
   - super: 🖐️ used
   - Symbol: 🙋 explained
-  - Reflect: 👂 heard
+  - Reflect: 🖐️ used
 - Statements
   - if: 🖐️ used
   - while: 🖐️ used

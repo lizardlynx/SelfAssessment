@@ -8,7 +8,7 @@
   - scalar: 🖐️ used
   - literal: 🖐️ used
   - expression: 🖐️ used
-  - heap: 🎓 known
+  - heap: 🖐️ used
   - function: 🖐️ used
   - procedure: 🖐️ used
   - method: 🖐️ used
@@ -61,7 +61,7 @@
   - object: 🖐️ used
   - class: 🖐️ used
   - collection: 🖐️ used
-  - set: 🖐️ used
+  - set: 🔬 researched
   - hash table: 🖐️ used
   - linked list: 🚀 constructed
   - doubly list: 🎓 known
@@ -76,14 +76,14 @@
   - mutable state: 🖐️ used
   - immutable state: 🎓 known
   - serialization: 🖐️ used
-  - string parsing: 🖐️ used
+  - string parsing: 🔬 researched
 - Process & style
   - compiler: 🚀 constructed
   - transpiler: 🎓 known
   - linter: 🖐️ used
   - polyfill: 🎓 known
   - debugger: 🖐️ used
-  - garbage collection: 🎓 known
+  - garbage collection: 🙋 explained
   - refactoring: 📢 talked
   - code review: 📢 talked
   - antipatterns: 🖐️ used
@@ -93,14 +93,14 @@
   - hardcode: 🖐️ used
   - complexity: 🎓 known
   - decomposition: 🎓 known
-  - spaghetti: 🎓 known
+  - spaghetti: 🖐️ used
   - silver bullet: 👂 heard
   - not invented here: 👂 heard
   - dead code: 👂 heard
-  - unreachable code: 🎓 known
-  - duplicate code: 🎓 known
+  - unreachable code: 🖐️ used
+  - duplicate code: 🖐️ used
   - exception: 🖐️ used
   - return early: 👂 heard
   - unittest: 🔬 researched
-  - git: 🖐️ used
-  - github: 🖐️ used
+  - git: 📢 talked
+  - github: 📢 talked
