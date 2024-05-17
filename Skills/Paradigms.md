@@ -26,7 +26,7 @@
   - Static method: 🖐️ used
   - Method: 🖐️ used
   - Async method: 🖐️ used
-  - Getters, Setters: 🖐️ used
+  - Getters, Setters: 📢 talked
   - Public fields: 🖐️ used
   - Private fields: 🖐️ used
   - Field declarations: 🖐️ used
@@ -40,7 +40,7 @@
   - Object form: 🖐️ used
   - instance: 🖐️ used
   - Introspection: 👂 heard
-  - Reflection: 👂 heard
+  - Reflection: 🖐️ used
 - Patterns
   - Singleton: 🚀 constructed
   - Factory Method: 🚀 constructed
@@ -49,10 +49,10 @@
   - Observer: 🚀 constructed
   - Strategy: 🚀 constructed
   - Facade: 🚀 constructed
-  - Proxy: 🎓 known
+  - Proxy: 🖐️ used
   - Chain of Responsibility: 🚀 constructed
   - Command: 🎓 known
-  - Iterator: 🎓 known
+  - Iterator: 🖐️ used
   - State: 🎓 known
   - Bridge: 🚀 constructed
   - Builder: 🚀 constructed

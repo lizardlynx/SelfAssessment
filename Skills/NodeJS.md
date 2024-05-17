@@ -6,7 +6,7 @@
   - Nonblocking I/O and slocking code: 👂 heard
   - Event loop: phases: 🔬 researched
   - Event loop: microtasks and macrotasks: 🔬 researched
-  - Garbage collection: 🎓 known
+  - Garbage collection: 🙋 explained
   - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
   - Interactive applications (close to real-time): 🎓 known
@@ -30,17 +30,17 @@
   - Node.js CLI: 🖐️ used
   - Process-based permissions: 👂 heard
   - Graceful shutdown: 🖐️ used
-  - Clustering: 👂 heard
+  - Clustering: 🖐️ used
   - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
   - Streams API: 🖐️ used
   - Web Streams API: 👂 heard
-  - Crypto API: 👂 heard
-  - Password hashing with node:crypto.scrypt: 👂 heard
+  - Crypto API: 🖐️ used
+  - Password hashing with node:crypto.scrypt: 🖐️ used
   - Web Crypto API: 👂 heard
   - File system API: sync and async: 🖐️ used
   - Copy folder recursively: 🖐️ used
-  - Worker threads: 🎓 known
+  - Worker threads: 🖐️ used
   - Performance hooks: 👂 heard
   - Native fetch and nodejs/undici: 👂 heard
   - node:async_hooks: 👂 heard
@@ -55,21 +55,21 @@
   - MessageChannel, MessagePort: 👂 heard
   - BroadcastChannel: 👂 heard
   - Generating crypto random UUID: 🖐️ used
-  - node:url vs new URL: 👂 heard
+  - node:url vs new URL: 🖐️ used
   - node:assert: 👂 heard
   - Internationalization: 🚀 constructed
-  - Blob, File, Buffer, node:buffer: 🖐️ used
+  - Blob, File, Buffer, node:buffer: 🔬 researched
   - Module node:zlib: 👂 heard
 - Application structure and architecture
-  - Isolation between layer: 👂 heard
-  - Multilayer approach: 🖐️ used
+  - Isolation between layer: 🚀 constructed
+  - Multilayer approach: 🚀 constructed
   - Separation of concerns: 👂 heard
   - Inversion of control: 👂 heard
   - Dependency injection: 🖐️ used
   - GRASP: 🎓 known
   - SOLID: 🙋 explained
   - GoF patterns: 🎓 known
-  - Distributed systems: 🎓 known
+  - Distributed systems: 🙋 explained
   - Highload applications: 👂 heard
   - Clean architecture: 🖐️ used
   - DDD: 🎓 known
@@ -77,20 +77,20 @@
   - CQS: 👂 heard
   - CQRS: 👂 heard
   - Event sourcing: 👂 heard
-  - Load balancing: 👂 heard
-  - Serverless clouds: 👂 heard
+  - Load balancing: 🖐️ used
+  - Serverless clouds: 🎓 known
   - FaaS clouds: 👂 heard
   - Fat controller: 👂 heard
   - GoF for Node.js: 👂 heard
   - Leaking abstractions: 👂 heard
 - Network
   - IP sticky sessions: 👂 heard
-  - Endpoint throttling: 🎓 known
-  - HTTP(S): 🎓 known
+  - Endpoint throttling: 🙋 explained
+  - HTTP(S): 🖐️ used
   - TCP/SSL: 🎓 known
-  - UDP: 🎓 known
+  - UDP: 🖐️ used
   - TLS: 🎓 known
-  - Websocket: 🎓 known
+  - Websocket: 🖐️ used
   - SSE: 👂 heard
   - HTTP/3 (QUIC): 👂 heard
   - Long polling: 👂 heard
@@ -103,15 +103,15 @@
   - Path traversal: 👂 heard
   - CSRF: 👂 heard
   - DNS: 🎓 known
-  - Fetch API: 🎓 known
+  - Fetch API: 🖐️ used
   - IncomingMessage: 🎓 known
-  - SQL injection: 🎓 known
+  - SQL injection: 🙋 explained
   - noDelay: 👂 heard
   - keep-alive: 🎓 known
   - ALPN: 👂 heard
   - SNI callback: 👂 heard
   - SSL certificates: 🎓 known
-  - Protocol agnostic approach
+  - Protocol agnostic approach: 👂 heard
 - Technique and tools
   - Native test runner: 👂 heard
   - Logging: 🚀 constructed
@@ -120,7 +120,7 @@
   - CI/CD: 🚀 constructed
   - Readable: 🖐️ used
   - Writable: 🖐️ used
-  - Transform: 👂 heard
+  - Transform: 🖐️ used
   - back pressure: 👂 heard
   - Buffer: 🖐️ used
   - Console: 🖐️ used
@@ -165,6 +165,6 @@
   - Webassembly Rust: 👂 heard
   - Webassembly Zig: 👂 heard
   - Webassembly AssemblyScript: 👂 heard
-  - Shared memory: 🎓 known
+  - Shared memory: 🖐️ used
   - SharedArrayBuffer: 🎓 known
   - V8 binary serialization: 👂 heard
